@@ -55,3 +55,10 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+/* Created Style by Student */
+.adobelist li::before, .adobeskill li::before {
+	display: inline-block;
+	width: 1em;
+	margin-left: -1em;
+}
