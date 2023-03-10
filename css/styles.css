@@ -45,9 +45,12 @@ body {
 }
 
 .owncss-div {
-	background-color: #FEFFBE
+	background-color: #FEFFBE;
 }
 
+.bordercolor {
+	border: 2px solid #D7EBBA !important; 
+}
 
 /* Styles for contact icons */
 
